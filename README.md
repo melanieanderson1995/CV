@@ -4,8 +4,6 @@ Practicing artist with a creative mind but a love of logic and analytical thinki
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 ## HTML5/CSS
     I taught myself HTML5 and CSS off of Codecademy, and proceeded to build my own website from scratch. I have a good sense of design so I find CSS very intuitive and I enjoy the creative aspect of it. HTML5 I found to be relatively simple and easy to learn, as it structurally makes a lot of sense to my visual brain. You can view my HTML5/CSS coded website at www.laneandersonart.com
 
@@ -29,13 +27,13 @@ Consider skills relevent to software development. Then consider your best skills
 
 ## University of the Arts London: Central St. Martins (Sept 2018-June 2020)
 
-- Arts and sciences, specializing in soft interactive sculpture and installations pertaining to theoretical and conceptual physics
+- Masters of Arts and sciences, specializing in soft interactive sculpture and installations pertaining to theoretical and conceptual physics
 - B
 - Participated in numerous exhibitions, all my work can be viewed on my website
 
 ## Carnegie Mellon University (Sept 2014-June 2018)
 
-- Fine Arts and Japanese interdisciplinary degree (Bachelors of Humanities and Arts), specializing as an illustrator
+- Bachelors of Humanities and Arts, Fine Arts and Japanese, specializing as an illustrator
 - 3.5 QPA, equivalent to 2.1
 - Participated in numerous exhibitions, all my work can be viewed on my website
 
